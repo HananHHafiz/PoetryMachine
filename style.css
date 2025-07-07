@@ -1,0 +1,125 @@
+html{background-color: rgb(208, 180, 216);
+    background-image: url('https://e.top4top.io/p_1726b9vaj1.jpg');
+    background-size:cover;
+    background-position: center;
+}
+
+#bottons{
+float: right;
+padding: 20px;
+line-height:2;
+background-color: rgba(243, 225, 147, 0.589);
+border: solid 10px rgba(248, 245, 248, 0.589);
+margin: 10px 50px 10px 10px;
+font-size: medium;
+color: rgb(102, 67, 102);
+
+}
+
+A:link { COLOR: black; TEXT-DECORATION: none; font-weight: none; }
+A:hover { COLOR: rgb(148, 32, 158); TEXT-DECORATION: none; font-weight: none;padding: 5px; }
+a:hover {background-color:rgba(71, 43, 73, 0.418) ;}
+
+#test{ background-color: rgba(243, 225, 147, 0.589);
+font-weight: bolder;
+font-size: medium;
+color:rgba(72, 11, 107, 0.589) ;}
+
+#children{
+    margin: 10px;
+    padding:10px;
+    width:700px;
+font-size: x-large;
+}
+
+#poam{  width:900px;
+    padding: 10px;
+    margin:10px 0 100px 0;
+    font-weight: bold;
+    font-size: large;
+    background-color: rgba(248, 248, 244, 0.205);
+     
+}
+
+#about{ 
+    width:900px;
+    padding: 10px;
+    margin:10px;
+    font-size: medium;   
+}
+
+footer{
+    
+    color: black;  
+    background-color:rgba(72, 51, 77, 0.575);
+    border-top: solid rgb(41, 37, 32) 7px;
+    padding:10px;
+  width: 100%;
+  margin-top: 200px;
+
+}
+
+a {
+    color: rgb(10, 10, 10);
+  }
+
+  
+
+ /* The Modal (background) Source (https://www.w3schools.com/howto/howto_css_modals.asp)*/
+ .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: #e9e5b3;
+    margin: 5% 5%; /* 15% from the top and centered */
+    padding: 20px;
+    border: 3px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+    color: black;
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  } 
+
+  .myBtn{
+      background-color: rgba(204, 207, 161, 0.4);
+font-weight: bolder;
+font-size: medium;
+color:rgba(72, 11, 107, 0.589);
+padding: 10Px;
+margin: 0 0px 10px 0;
+  }
+  
+.myBtn:hover{
+    background-color: rgba(72, 11, 107, 0.589);
+color:rgba(204, 207, 161, 0.4); 
+
+  }
+
+  h2{color: rgba(72, 11, 107, 0.589);
+  }
+
+  
